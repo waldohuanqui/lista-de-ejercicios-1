@@ -1,0 +1,10 @@
+nombre = input("Por favor, ingrese su nombre: ")
+apellido = input("Por favor, ingrese su apellido: ")
+edad = input("Por favor, ingrese su edad: ")
+direccion = input("Por favor, ingrese su dirección: ")
+telefono = input("Por favor, ingrese su número de teléfono: ")
+
+print("Nombres y Apellidos: " + nombre + " " + apellido)
+print("Edad: " + edad)
+print("Dirección: " + direccion)
+print("Teléfono: " + telefono)
